@@ -1,5 +1,6 @@
 # JClipboard (Java Clipboard Library)
-![GitHub Version](https://img.shields.io/github/v/release/DavidHancu/JClipboard)
+![GitHub Version](https://img.shields.io/github/v/release/DavidHancu/JClipboard) [![](https://jitpack.io/v/DavidHancu/JClipboard.svg)](https://jitpack.io/#DavidHancu/JClipboard)
+
 
 The goal of this project is to offer an easy way of accessing the Clipboard using a simple Java Interface. Here are some of the features of this library:
 - Simple, thread-safe, and non-blocking (Everything is done through the ``JClipboard`` class)
